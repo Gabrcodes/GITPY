@@ -16,7 +16,7 @@ This is a command-line interface (CLI) tool to interact with your GitHub reposit
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your_username/github-cli-tool.git
+    git clone https://github.com/Gabrcodes/new
     ```
 
 2. Install the required libraries:
@@ -36,4 +36,4 @@ This is a command-line interface (CLI) tool to interact with your GitHub reposit
 
 To run the CLI, simply execute the script:
 ```bash
-python github_cli.py
+python3 program.py
